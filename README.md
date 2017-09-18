@@ -21,4 +21,6 @@ Ran the location trees.
 Interesting data.
 Thinking about some other studies now.
 
-blablabla
+## September 18, 2017
+
+Adding some more trial material for the git class
